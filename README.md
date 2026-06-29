@@ -7,7 +7,7 @@
 MITM tls 流程 :  
 mobile phone tls info -> charles tls -> server tls
 
-repeat tls 流程 (charles client )
+repeat tls 流程 (charles client )  
 charles tls -> server tls
 
 ## charles tls VS repeat tls
