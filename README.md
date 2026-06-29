@@ -10,7 +10,7 @@ mobile phone tls info -> charles tls -> server tls
 repeat tls 流程 (charles client )  
 charles tls -> server tls
 
-## charles tls VS repeat tls
+## charles MITM tls VS repeat tls
 
 **1. cipher suite**
 
